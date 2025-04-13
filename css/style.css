@@ -988,8 +988,8 @@ h3.my-profession
     
     .home .home-info
     {
-        flex: 0 0 100%;
-        max-width: 40%;
+        flex: 0 0 40%;
+        max-width: 100%;
     }
 
     .home .home-img
@@ -1012,4 +1012,11 @@ h3.my-profession
         flex: 0 0 100%;
         max-width: 100%;
     }
+
+     .home .home-info
+    {
+        flex: 0 0 40%;
+        max-width: 100%;
+    }
+
 }
