@@ -936,6 +936,10 @@ h3.my-profession
         padding-top: 70px;
     }
 
+    .main-content
+    {
+        padding-left: 0;
+    }
     .aside
     {
         left: -270px;
@@ -985,10 +989,9 @@ h3.my-profession
         max-width: 50%;
     }
 
-    
     .home .home-info
     {
-        flex: 0 0 40%;
+        flex: 0 0 100%;
         max-width: 100%;
     }
 
